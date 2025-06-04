@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011249669623",
+    "project_id": "malimban-and-perdonia-tp-37ede",
+    "storage_bucket": "malimban-and-perdonia-tp-37ede.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011249669623:android:5281eeb2ede6e244b53af2",
+        "android_client_info": {
+          "package_name": "com.example.malimban_and_perdonia_tp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX1vbm4cc6hz3L_xuTYEPQx3MbAAVSv0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
